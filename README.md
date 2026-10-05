@@ -1,4 +1,4 @@
-# Homework 2 — My Movie Review (TMNT 2007)
+# Homework 2 
 
 CSC 4370 Web Programming · Suryaprakash Murugavvel · Section 002
 
